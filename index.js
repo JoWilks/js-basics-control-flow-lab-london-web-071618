@@ -1,7 +1,7 @@
 // Write your code in this file!
 
-function scuberGreetingForFeet(input) {
-if (input <) {
+function scuberGreetingForFeet(feet) {
+if (input <= 400) {
   
 }
 }
