@@ -7,5 +7,5 @@ else if (feet <= 400) {return "This one is on me!"}
 }
 
 function ternaryCheckCity(city) {
-  city === 'NYC' ? "Ok, sounds good." : No go.";
+  city === 'NYC' ? "Ok, sounds good." : "No go.";
 }
