@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-scuberGreetingForFeet(input) {
+function scuberGreetingForFeet(input) {
 if () {
   
 }
