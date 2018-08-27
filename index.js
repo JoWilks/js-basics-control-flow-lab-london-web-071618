@@ -9,3 +9,5 @@ else if (feet <= 400) {return "This one is on me!"}
 function ternaryCheckCity(city) {
   return (city == 'NYC' ? 'Ok, sounds good.' : 'No go.');
 }
+
+function 
